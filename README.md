@@ -63,7 +63,7 @@ Inicie a api
 serve
 ```
 
-Pronto! A api de oportundiades estará rodando na porta `5000`.
+Pronto! A api de oportunidades estará rodando na porta `5000`.
 
 ## API
 
