@@ -15,10 +15,6 @@ Seu objetivo é criar um simples app, com uma página de listagem de oportunidad
 - Editar dados da oportunidade selecionada.
 - Fazer a persistência dos dados no `localStorage` ou `IndexedDB`;
 
-Para ter o estado inicial da lista de oportunidades utilizar este recurso abaixo:
-
-> GET
-
 ### O que esperamos:
 
 - A página ser responsiva;
