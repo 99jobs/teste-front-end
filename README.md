@@ -35,3 +35,55 @@ Para ter o estado inicial da lista de oportunidades utilizar este recurso abaixo
 - Testes End to End;
 
  ** Use sua criatividade para criar a página para listar os dados cadastrados **
+ 
+## Instalando API
+ 
+A API sera rodada em [nodeJs](https://nodejs.org/en/), caso nao tenha instalado: 
+ 
+```
+sudo apt install nodejs
+sudo apt install npm
+```
+ 
+Com o projeto baixado na maquina, abra a pasta da api em uma outra aba do terminal
+
+```
+cd ./teste-front-end/opportunity_server/
+```
+
+Instale a dependencia `serve`
+
+```
+npm i -g serve
+```
+
+Inicie a api
+
+```
+serve
+```
+
+Pronto! A api de oportundiades estará rodando na porta `5000`.
+
+## API
+
+Chamada:
+> GET http://localhost:5000/opportunities.json
+
+Retorno:
+```
+[
+   {
+      title: 'Exemplo 1',
+      location: '23, Rua a',
+      tags: [
+         'tag 1',
+         'tag 2',
+         ...
+      ],
+      salary: '1000-1500',
+      published_at: '2021-01-01'
+   },
+   ...
+]
+```
