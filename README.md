@@ -41,10 +41,10 @@ sudo apt install nodejs
 sudo apt install npm
 ```
  
-Com o projeto baixado na maquina, abra a pasta da api em uma outra aba do terminal
+Com o projeto baixado na maquina, abra-o em outra aba do terminal
 
 ```
-cd ./teste-front-end/opportunity_server/
+cd ./teste-front-end/
 ```
 
 Instale a dependencia `serve`
@@ -56,7 +56,7 @@ npm i -g serve
 Inicie a api
 
 ```
-serve
+serve opportunity_server
 ```
 
 Pronto! A api de oportunidades estará rodando na porta `5000`.
