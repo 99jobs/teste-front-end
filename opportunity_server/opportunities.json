@@ -3,7 +3,7 @@
 		"title": "Assistente de Construção",
 		"location": "3386 Viela Cauã",
 		"company": "Nogueira-Geraldes",
-		"tags": ["VanillaJs"],
+		"tags": ["Proativo", "Prestativo"],
 		"salary": "1000-2000",
 		"published_at": "2021-02-19"
 	},
@@ -11,32 +11,32 @@
 		"title": "Gerente Varejo Principal",
 		"location": "s/n Marginal João Miguel",
 		"company": "Mendes-Viveiros",
-		"tags": ["VanillaJs", "NodeJs", "RoR", "Elixir"],
-		"salary": "2000-3000",
+		"tags": ["Líder", "Teamwork"],
+		"salary": "3000-4000",
 		"published_at": "2021-02-15"
 	},
 	{
-		"title": "Engenheiro Principal",
+		"title": "Engenheiro de Software",
 		"location": "s/n Viela Sirineu",
 		"company": "Porto-Cachoeira",
 		"tags": ["VanillaJs", "NodeJs", "RoR", "Elixir"],
-		"salary": "1000-2000",
+		"salary": "5000-6000",
 		"published_at": "2021-02-01"
 	},
 	{
 		"title": "Associado Consultoria Internacional",
 		"location": "856 Marginal Pedro",
 		"company": "Cruz EIRELI",
-		"tags": ["VanillaJs", "NodeJs"],
-		"salary": "3000-4500",
+		"tags": ["Proativo", "Líder", "Teamwork"],
+		"salary": "5700-6200",
 		"published_at": "2021-02-27"
 	},
 	{
 		"title": "Especialista Nacional",
 		"location": "576 Viela Rebeca da Veiga",
 		"company": "Vieira-Dorneles",
-		"tags": ["VanillaJs", "NodeJs"],
-		"salary": "1000-2000",
+		"tags": ["Líder"],
+		"salary": "8000-10000",
 		"published_at": "2021-02-11"
 	}
 ]
